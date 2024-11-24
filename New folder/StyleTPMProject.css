@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet);
+
+.header > h3{
+    margin-left: 10px;
+    margin-top: 40px;
+}
+
+.isi > h1{
+    font-size:64px;
+    margin-left: 10px;
+    position: relative;
+    top : 25px;
+}
+
+.isi>p{
+    font-size:14px;
+    color:#615D5D;
+    line-height: 200%;
+    margin-left: 10px;
+}
+
+.isi > img{
+    width: 120px;
+    margin-left: 10px;
+    margin-top: 5px;
+    position:relative;
+    top : 30px;
+}
+.header > img{
+    position:relative;
+    left: 360px;
+    bottom: 40px;
+    width: 13px;
+}
+.footer > img{
+    width:400px;
+}
